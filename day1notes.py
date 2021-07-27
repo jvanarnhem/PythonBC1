@@ -1,6 +1,5 @@
 # print and comments
-print('Jeff')
-print('Jeff\'')
+
 
 # variables, types, and conventions (formatted strings, built in functions)
 

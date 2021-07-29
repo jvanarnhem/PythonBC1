@@ -10,10 +10,10 @@
 # more strings (escape characters & triple quotes)
 
 
-# CHALLENGE #1 MadLibs
-
-
 # Parts of strings & string methods
+
+
+# CHALLENGE #1 MadLibs
 
 
 # arithmetic operations & math module
@@ -26,6 +26,3 @@
 
 
 # CHALLENGE #2 Escape Room
-
-
-
